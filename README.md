@@ -48,7 +48,7 @@
 [![NLW-04 NodeJS](https://img.shields.io/badge/-%20NWL04%20NodeJS-05122A?)](https://github.com/abdielmartins/NLW4-nodeJS)
 
 <p align="center">
-<a href="https://github.com/abdielmartins">
+<a href="https://github.com/HenryAlfa">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdielmartins&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdielmartins&layout=compact&langs_count=8&theme=algolia"/>
 </a>
