@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/alexandre-alfa-b427a6158/"><img src="https://img.shields.io/badge/-Abdiel%20Martins-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/alexandre-alfa-b427a6158/"><img src="https://img.shields.io/badge/-Alexandre%20Alfa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:henriqueafcarvalho15@gmail.com"><img src="https://img.shields.io/badge/-henriqueafcarvalho15@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/alee_alfa/"><img src="https://img.shields.io/badge/-@alee_alfa_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/Spectro_Falls"><img src="https://img.shields.io/badge/-@Spectro_Falls-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
