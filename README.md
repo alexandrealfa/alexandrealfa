@@ -8,7 +8,7 @@
 ✍️ &nbsp;In my free time, I pursue Machine Learning and Data Science as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at henriqueafcarvalho15@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1leuZJ5c5Id2x3dh5PQYDnQLhsQwuBdBQ/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -49,8 +49,8 @@
 
 <p align="center">
 <a href="https://github.com/HenryAlfa">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdielmartins&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdielmartins&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HenryAlfa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HenryAlfa&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -58,8 +58,8 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/abdiel-martins/"><img src="https://img.shields.io/badge/-Abdiel%20Martins-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:abdielmartins21@gmail.com"><img src="https://img.shields.io/badge/-abdielmartins21@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/abdiverso"><img src="https://img.shields.io/badge/-@abdiverso_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/abdiverso"><img src="https://img.shields.io/badge/-@abdiverso-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/alexandre-alfa-b427a6158/"><img src="https://img.shields.io/badge/-Abdiel%20Martins-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:henriqueafcarvalho15@gmail.com"><img src="https://img.shields.io/badge/-henriqueafcarvalho15@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/alee_alfa/"><img src="https://img.shields.io/badge/-@alee_alfa_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/Spectro_Falls"><img src="https://img.shields.io/badge/-@Spectro_Falls-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
