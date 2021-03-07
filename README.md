@@ -10,7 +10,7 @@
 ✉️ &nbsp;You can shoot me an email at henriqueafcarvalho15@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/7c354d41281639.57a00ad47e777.gif" align="right"/>
+<img alt="Night Coding" src="https://64.media.tumblr.com/bc91fffa1f7f71014fddf10d3d2decbd/tumblr_pkxty5psM71sguk2k_500.gifv" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
