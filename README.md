@@ -1,5 +1,5 @@
 👋 &nbsp;Hey there! I'm Alexandre
-<img alt="Night Coding" src="https://i.dlpng.com/static/png/5607514-triangle-design-png-100-images-in-collection-page-2-triangle-design-png-338_338_preview.png" width="300px" height="250px" style="border-radius:20px" align="right"/>
+<img alt="Night Coding" src="https://i1.wp.com/www.multarte.com.br/wp-content/uploads/2019/02/universo-png-transparente6.png?fit=696%2C549&ssl=1" width="300px" height="250px" style="border-radius:20px" align="right"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
