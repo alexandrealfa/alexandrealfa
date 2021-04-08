@@ -17,7 +17,6 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-050806?style=flat-square&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-050806?style=flat-square&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-050806?style=flat-square&logo=flask)&nbsp;
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-050806?style=flat-square&logo=javascript)&nbsp;
@@ -41,6 +40,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-050806?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-050806?style=flat-square&logo=node.js)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-050806?style=flat-square&logo=Docker)
+![Django](https://img.shields.io/badge/-Django-050806?style=flat-square&logo=django&logoColor=092E20)&nbsp;
 
 <p align="center">
 <a href="https://github.com/HenryAlfa">
