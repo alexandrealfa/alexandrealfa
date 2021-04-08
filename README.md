@@ -1,5 +1,5 @@
 👋 &nbsp;Hey there! I'm Alexandre
-<img alt="Night Coding" src="https://i.pinimg.com/originals/50/ca/2e/50ca2e8287ce2e3f06506033823a15bd.gif" height="200px" style="border-radius:10px!important;" align="right"/>
+<img alt="Night Coding" src="https://i.pinimg.com/originals/50/ca/2e/50ca2e8287ce2e3f06506033823a15bd.gif" height="300px" style="border-radius:20px" align="right"/>
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
