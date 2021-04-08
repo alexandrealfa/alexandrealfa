@@ -1,5 +1,5 @@
 👋 &nbsp;Hey there! I'm Alexandre
-<img alt="Night Coding" src="https://cdn131.picsart.com/322663644282211.png?type=webp&to=min&r=640" width="300px" height="450px" style="border-radius:20px" align="right"/>
+<img alt="Night Coding" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/364c2b84b5c2eaf057f323dab342522e-1598451658/TEST20/animate-twitch-notification-alerts-with-your-oc.gif" width="300px" height="250px" style="border-radius:20px" align="right"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
