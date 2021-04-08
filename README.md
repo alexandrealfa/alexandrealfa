@@ -30,22 +30,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?&logo=Linux&logoColor=FCC624)
 
-### Fullstack Projects
 
-[![My Services](https://img.shields.io/badge/-%20My%20Services-05122A?)](https://github.com/abdielmartins/myservice)
-
-
-### Frontend Projects
-
-[![Dogs](https://img.shields.io/badge/-%20Dogs-05122A?)](https://github.com/abdielmartins/dogsProject)
-[![Instagram Clone](https://img.shields.io/badge/-%20Instagram%20Clone-05122A?)](https://github.com/abdielmartins/instagramClone)
-[![Maze Runner](https://img.shields.io/badge/-%20Maze%20Runner-05122A?)](https://github.com/abdielmartins/mazeRunner)
-
-### Backend Projects Projects
-
-[![Flask CRUD](https://img.shields.io/badge/-%20Flask%20Crud-05122A?)](https://github.com/abdielmartins/CRUD_flask)
-[![Flask BLOG](https://img.shields.io/badge/-%20Flask%20Blog-05122A?)](https://github.com/abdielmartins/flask_BLOG)
-[![NLW-04 NodeJS](https://img.shields.io/badge/-%20NWL04%20NodeJS-05122A?)](https://github.com/abdielmartins/NLW4-nodeJS)
 
 <p align="center">
 <a href="https://github.com/HenryAlfa">
