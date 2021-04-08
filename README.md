@@ -33,7 +33,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-050806?style=flat-square&logo=markdown)
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-050806?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-050806?style=flat-square&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-050806?style=flat-square&logo=Linux&logoColor=FCC624)
 
 ### 💻 &nbsp;Currently studying
@@ -41,6 +40,7 @@
 ![Jinja](https://img.shields.io/badge/-Jinja-050806?style=flat-square&logo=jinja&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-050806?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-050806?style=flat-square&logo=node.js)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-050806?style=flat-square&logo=Docker)
 
 <p align="center">
 <a href="https://github.com/HenryAlfa">
