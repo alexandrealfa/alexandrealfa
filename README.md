@@ -15,25 +15,25 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-050806?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-050806?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-050806?style=flat&logo=flask)&nbsp;
+![Python](https://img.shields.io/badge/-Python-050806?style=flat-square&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-050806?style=flat-square&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-050806?style=flat-square&logo=flask)&nbsp;
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-050806?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-050806?style=flat&logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-050806?style=flat&logo=Redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-050806?style=flat-square&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-050806?style=flat-square&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-050806?style=flat-square&logo=Redux&logoColor=white)
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-050806?style=flat&logo=bootstrap&logoColor=563D7C)
-![HTML](https://img.shields.io/badge/-HTML-050806?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-050806?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-050806?style=flat-square&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/-HTML-050806?style=flat-square&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-050806?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
 
-![Git](https://img.shields.io/badge/-Git-050806?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-050806?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-050806?style=flat&logo=markdown)
+![Git](https://img.shields.io/badge/-Git-050806?style=flat-square&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-050806?style=flat-square&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-050806?style=flat-square&logo=markdown)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-050806?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-050806?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-050806?&logo=Linux&logoColor=FCC624)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-050806?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-050806?style=flat-square&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-050806?style=flat-square&logo=Linux&logoColor=FCC624)
 
 ### 💻 &nbsp;Currently studying
 
