@@ -19,27 +19,27 @@
 ![Django](https://img.shields.io/badge/-Django-050806?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-050806?style=flat&logo=flask)&nbsp;
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-7248B6?style=flat-square&logo=Redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-050806?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-050806?style=flat&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-050806?style=flat&logo=Redux&logoColor=white)
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-050806?style=flat&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/-HTML-050806?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-050806?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Git](https://img.shields.io/badge/-Git-050806?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-050806?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-050806?style=flat&logo=markdown)
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-05122A?&logo=Linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/-Docker-050806?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-050806?&logo=Linux&logoColor=FCC624)
 
 ### 💻 &nbsp;Currently studying
 
-![Jinja](https://img.shields.io/badge/-Jinja-B41717?style=flat-square&logo=jinja&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336790?style=flat-square&logo=PostgreSQL&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Jinja](https://img.shields.io/badge/-Jinja-050806?style=flat-square&logo=jinja&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-050806?style=flat-square&logo=PostgreSQL&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-050806?style=flat&logo=node.js)&nbsp;
 
 <p align="center">
 <a href="https://github.com/HenryAlfa">
