@@ -1,5 +1,5 @@
 👋 &nbsp;Hey there! I'm Alexandre
-<img alt="Night Coding" src="https://w7.pngwing.com/pngs/115/304/png-transparent-planet-planet-universe-watercolor.png" width="300px" height="250px" style="border-radius:20px" align="right"/>
+<img alt="Night Coding" src="https://i1.wp.com/www.multarte.com.br/wp-content/uploads/2019/02/universo-png-transparente6.png?fit=696%2C549&ssl=1" width="300px" height="250px" style="border-radius:20px" align="right"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
