@@ -1,5 +1,5 @@
 👋 &nbsp;Hey there! I'm Alexandre
-<img alt="Night Coding" src="https://www.ilusionesopticas.net/wp-content/uploads/2006/10/rotacion-caotica.gif" width="300px" height="300px" style="border-radius:20px" align="right"/>
+<img alt="Night Coding" src="https://www.ilusionesopticas.net/wp-content/uploads/2006/10/rotacion-caotica.gif" width="300px" height="250px" style="border-radius:20px" align="right"/>
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
