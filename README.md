@@ -31,7 +31,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-050806?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-050806?style=flat&logo=markdown)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-050806?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-050806?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-050806?&logo=Linux&logoColor=FCC624)
 
