@@ -1,5 +1,5 @@
 👋 &nbsp;Hey there! I'm Alexandre
-<img alt="Night Coding" src="https://www.seekpng.com/png/full/12-120980_abstract-art-png-free-download-learning-transparent-black.png" width="300px" height="250px" style="border-radius:20px" align="right"/>
+<img alt="Night Coding" src="https://img1.gratispng.com/20180412/fkq/kisspng-line-art-clip-art-tumblr-5acfedc5d04ae1.8442105915235762618532.jpg" width="300px" height="250px" style="border-radius:20px" align="right"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
