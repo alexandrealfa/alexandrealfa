@@ -35,7 +35,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?&logo=Linux&logoColor=FCC624)
 
-### 💻 Currently studying
+### 💻 &nbsp;Currently studying
 
 ![Jinja](https://img.shields.io/badge/-Jinja-B41717?style=flat-square&logo=jinja&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336790?style=flat-square&logo=PostgreSQL&logoColor=white)
