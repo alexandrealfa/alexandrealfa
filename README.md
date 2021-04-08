@@ -2,7 +2,7 @@
 <img alt="Night Coding" src="https://www.seekpng.com/png/full/12-120980_abstract-art-png-free-download-learning-transparent-black.png" width="300px" height="250px" style="border-radius:20px" align="right"/>
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
+💡 &nbsp;<i>I like to explore new technologies and develop software solutions.</i>\
 🎓 &nbsp;I'm currently studying Software Engineering at Kenzie Academy.\
 🌱 &nbsp;I'm on track for learning more about Back-end, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Machine Learning and Data Science as hobbies/side hustles.\
