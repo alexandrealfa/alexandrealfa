@@ -39,7 +39,7 @@
 
 ![Jinja](https://img.shields.io/badge/-Jinja-050806?style=flat-square&logo=jinja&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-050806?style=flat-square&logo=PostgreSQL&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-050806?style=flat&logo=node.js)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-050806?style=flat-square&logo=node.js)&nbsp;
 
 <p align="center">
 <a href="https://github.com/HenryAlfa">
