@@ -1,5 +1,5 @@
 👋 &nbsp;Hey there! I'm Alexandre
-<img alt="Night Coding" src="https://img2.pngio.com/oh-moon-pixel-art-pixel-tumblr-png-gif-art-png-500_500.gif" width="300px" height="250px" style="border-radius:20px" align="right"/>
+<img alt="Night Coding" src="https://www.seekpng.com/png/full/12-120980_abstract-art-png-free-download-learning-transparent-black.png" width="300px" height="250px" style="border-radius:20px" align="right"/>
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;<em>I like to explore new technologies and develop software solutions.</em>\
