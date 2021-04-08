@@ -20,7 +20,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-7248B6?style=flat-square&logo=Redux&logoColor=white)
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
