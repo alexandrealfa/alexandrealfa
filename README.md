@@ -3,12 +3,12 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;<em>I like to explore new technologies and develop software solutions.</em>\
-🎓 &nbsp;I'm currently studying Software Engineering at Kenzie Academy.\
-🌱 &nbsp;I'm on track for learning more about Back-end, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Machine Learning and Data Science as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at henriqueafcarvalho15@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1KL4RR7pbKEI5HbSKF0PPW9VljZmf98S2/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+🎓 &nbsp;<em>I'm currently studying Software Engineering at Kenzie Academy.</em>\
+🌱 &nbsp;<em>I'm on track for learning more about Back-end, Systems Design, and Cloud Architecture.</em>\
+✍️ &nbsp;<em>In my free time, I pursue Machine Learning and Data Science as hobbies/side hustles.</em>\
+💬 &nbsp;<em>Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.</em>\
+✉️ &nbsp;<em>You can shoot me an email at henriqueafcarvalho15@gmail.com! I'll try to respond as soon as I can.</em>\
+📄 &nbsp;<em>Please have a look at my [Résumé](https://drive.google.com/file/d/1KL4RR7pbKEI5HbSKF0PPW9VljZmf98S2/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!</em>
 
 
 
