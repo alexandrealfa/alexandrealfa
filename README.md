@@ -1,5 +1,5 @@
 👋 &nbsp;Hey there! I'm Alexandre
-<img alt="Night Coding" src="https://png.pngitem.com/pimgs/s/203-2039930_astronauta-astronaut-tumblr-aesthetic-png-astronauta-tumblr-png.png" width="300px" height="250px" style="border-radius:20px" align="right"/>
+<img alt="Night Coding" src="https://lh3.googleusercontent.com/proxy/WrEcGMKSJfWp89_dHxwbHioVmp_CeKZ-yPtLvBlEtb1-EIud0XxuPkG58pQUjK8BQwJYng5e2qCsr8QVz1H0LZ0RTs4DvSSKcAtSesXGgyMdjPyyqj5t" width="300px" height="250px" style="border-radius:20px" align="right"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
