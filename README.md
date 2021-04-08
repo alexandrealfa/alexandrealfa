@@ -1,5 +1,5 @@
 👋 &nbsp;Hey there! I'm Alexandre
-<img alt="Night Coding" src="https://w7.pngwing.com/pngs/778/573/png-transparent-soft-grunge-aesthetic-smoke-angle-aesthetics-art.png" width="300px" height="250px" style="border-radius:20px" align="right"/>
+<img alt="Night Coding" src="https://www.seekpng.com/png/full/12-120980_abstract-art-png-free-download-learning-transparent-black.png" width="300px" height="250px" style="border-radius:20px" align="right"/>
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;<em>I like to explore new technologies and develop software solutions.</em>\
