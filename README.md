@@ -1,5 +1,5 @@
 👋 &nbsp;Hey there! I'm Alexandre
-<img alt="Night Coding" src="https://i1.wp.com/www.multarte.com.br/wp-content/uploads/2019/02/universo-png-transparente6.png?fit=696%2C549&ssl=1" width="300px" height="250px" style="border-radius:20px" align="right"/>
+<img alt="Night Coding" src="https://png.pngitem.com/pimgs/s/203-2039930_astronauta-astronaut-tumblr-aesthetic-png-astronauta-tumblr-png.png" width="300px" height="250px" style="border-radius:20px" align="right"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
