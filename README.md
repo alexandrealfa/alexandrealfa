@@ -43,9 +43,9 @@
 ![Django](https://img.shields.io/badge/-Django-050806?style=flat-square&logo=django&logoColor=092E20)&nbsp;
 
 <p align="center">
-<a href="https://github.com/HenryAlfa">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HenryAlfa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HenryAlfa&layout=compact&langs_count=8&theme=dark"/>
+<a href="https://github.com/alexandrealfa">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alexandrealfa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexandrealfa&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
 
