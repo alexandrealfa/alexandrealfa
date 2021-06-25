@@ -18,6 +18,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-050806?style=flat-square&logo=python)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-050806?style=flat-square&logo=flask)&nbsp;
+![FastAPI](https://img.shields.io/badge/-fastapi-050806?style=flat-square&logo=fastapi&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/-Django-050806?style=flat-square&logo=django&logoColor=092E20)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-050806?style=flat-square&logo=PostgreSQL&logoColor=white)&nbsp;
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-050806?style=flat-square&logo=javascript)&nbsp;
@@ -36,12 +38,14 @@
 ![Linux](https://img.shields.io/badge/-Linux-050806?style=flat-square&logo=Linux&logoColor=FCC624)
 
 ### 💻 &nbsp;Currently studying
+![Golang](https://img.shields.io/badge/-Golang-050806?style=flat-square&logo=Go&logoColor=white)
+![C#](https://img.shields.io/badge/-CSharp-050806?style=flat-square&logo=c#&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-050806?style=flat-square&logo=Java&logoColor=white)
 
 ![Jinja](https://img.shields.io/badge/-Jinja-050806?style=flat-square&logo=jinja&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-050806?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-050806?style=flat-square&logo=node.js)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-050806?style=flat-square&logo=Docker)
-![Django](https://img.shields.io/badge/-Django-050806?style=flat-square&logo=django&logoColor=092E20)&nbsp;
+
 
 <p align="center">
 <a href="https://github.com/alexandrealfa">
