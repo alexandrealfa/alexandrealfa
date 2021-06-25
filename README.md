@@ -18,6 +18,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-050806?style=flat-square&logo=python)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-050806?style=flat-square&logo=flask)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-050806?style=flat-square&logo=PostgreSQL&logoColor=white)&nbsp;
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-050806?style=flat-square&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-050806?style=flat-square&logo=react)&nbsp;
