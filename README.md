@@ -9,7 +9,7 @@
 ✍️ &nbsp;<em>In my free time, I pursue Machine Learning and Data Science as hobbies/side hustles.</em>\
 💬 &nbsp;<em>Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.</em>\
 ✉️ &nbsp;<em>You can shoot me an email at henriqueafcarvalho15@gmail.com! I'll try to respond as soon as I can.</em>\
-📄 &nbsp;<em>Please have a look at my [Résumé](https://drive.google.com/file/d/1KL4RR7pbKEI5HbSKF0PPW9VljZmf98S2/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!</em>
+📄 &nbsp;<em>Please have a look at my [Résumé](https://drive.google.com/file/d/1YgDQaPiYTxlIS5End2VChaRrS8nJzcpe/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!</em>
 
 
 
