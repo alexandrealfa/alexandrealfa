@@ -21,6 +21,7 @@
 ![FastAPI](https://img.shields.io/badge/-fastapi-050806?style=flat-square&logo=fastapi&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-050806?style=flat-square&logo=django&logoColor=092E20)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-050806?style=flat-square&logo=PostgreSQL&logoColor=white)&nbsp;
+![Numpy](https://img.shields.io/badge/-Numpy-050806?style=flat-square&logo=Numpy&logoColor=white)&nbsp;
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-050806?style=flat-square&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-050806?style=flat-square&logo=react)&nbsp;
