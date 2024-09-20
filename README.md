@@ -26,6 +26,8 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-050806?style=flat-square&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-050806?style=flat-square&logo=react)&nbsp;
+![Vue3](https://img.shields.io/badge/-React-050806?style=flat-square&logo=vue)&nbsp;
+![RxJS](https://img.shields.io/badge/-React-050806?style=flat-square&logo=rxjs)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-050806?style=flat-square&logo=Redux&logoColor=white)
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-050806?style=flat-square&logo=bootstrap&logoColor=563D7C)
@@ -36,16 +38,18 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-050806?style=flat-square&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-050806?style=flat-square&logo=markdown)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-050806?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-050806?style=flat-square&logo=node.js)&nbsp;
+![PHP](https://img.shields.io/badge/-Visual%20Studio%20Code-050806?style=flat-square&logo=php&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-050806?style=flat-square&logo=Linux&logoColor=FCC624)
 
-### 💻 &nbsp;Currently studying
 ![Golang](https://img.shields.io/badge/-Golang-050806?style=flat-square&logo=Go&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-050806?style=flat-square&logo=c#&logoColor=white)
+![Gim](https://img.shields.io/badge/-Golang-050806?style=flat-square&logo=Gim&logoColor=white)
+![Gorila](https://img.shields.io/badge/-Golang-050806?style=flat-square&logo=gorila&logoColor=white)
+
+### 💻 &nbsp;Currently studying
+![Golang Advanced](https://img.shields.io/badge/-Golang-050806?style=flat-square&logo=Go&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-050806?style=flat-square&logo=Java&logoColor=white)
 
-![Jinja](https://img.shields.io/badge/-Jinja-050806?style=flat-square&logo=jinja&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-050806?style=flat-square&logo=node.js)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-050806?style=flat-square&logo=Docker)
 
 
