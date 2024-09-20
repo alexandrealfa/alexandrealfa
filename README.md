@@ -43,8 +43,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-050806?style=flat-square&logo=Linux&logoColor=FCC624)
 
 ![Golang](https://img.shields.io/badge/-Golang-050806?style=flat-square&logo=Go&logoColor=white)
-![Gim](https://img.shields.io/badge/-Golang-050806?style=flat-square&logo=Gim&logoColor=white)
-![Gorila](https://img.shields.io/badge/-Golang-050806?style=flat-square&logo=gorila&logoColor=white)
 
 ### 💻 &nbsp;Currently studying
 ![Golang Advanced](https://img.shields.io/badge/-Golang-050806?style=flat-square&logo=Go&logoColor=white)
