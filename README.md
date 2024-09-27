@@ -1,4 +1,4 @@
-👋 &nbsp;Hey there! I'm Alexandre
+👋 &nbsp;Hey there! I'm Alexandre 
 <img alt="Night Coding" src="https://orig00.deviantart.net/3c21/f/2015/161/6/4/dark_souls___solaire_idle_by_zedotagger-d8wrjt7.gif" width="300px" height="250px" style="border-radius:20px" align="right"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
