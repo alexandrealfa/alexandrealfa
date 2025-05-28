@@ -2,7 +2,7 @@
 <img alt="Night Coding" src="https://orig00.deviantart.net/3c21/f/2015/161/6/4/dark_souls___solaire_idle_by_zedotagger-d8wrjt7.gif" width="300px" height="250px" style="border-radius:20px" align="right"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
-<img alt="Night Coding" src="https://www.codewars.com/users/HenryAlfa/badges/large"/>
+<img alt="Night Coding" src="https://www.codewars.com/users/alexandrealfa/badges/large"/>
 
 ```go
 devProfile := map[string]string{
