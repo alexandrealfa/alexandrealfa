@@ -8,7 +8,7 @@
 devProfile := map[string]string{
     "name": "Alexandre Alfa",
     "aka": "Algorithm Maker",
-    "focus": "Scalable Systems, Complex Algorithms, Emerging Tech",
+    "focus": "Scalable Systems, Complex Algorithms",
 }
 ```
 🥷🏻 I enjoy exploring new technologies, building scalable software solutions, and solving complex algorithmic challenges.
